@@ -2,9 +2,9 @@
 {
   "address": [
     {
-      "post": "https://aty.mirname.xyz/postN.php",
-      "server": "https://aty.mirname.xyz/server_none.png",
-      "user": "https://aty.mirname.xyz/user_ban.png",
+      "post": "https://app.mirname.xyz/postN.php",
+      "server": "https://app.mirname.xyz/server_none.png",
+      "user": "https://app.mirname.xyz/user_ban.png",
       "version": "13.0",      
       "timeData": 30
     }
