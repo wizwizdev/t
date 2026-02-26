@@ -2,10 +2,10 @@
 {
   "address": [
     {
-      "post": "https://app.mirname.xyz/postN.php",
+      "post": "https://a1pp.mirname.xyz/postN.php",
       "server": "https://app.mirname.xyz/server_none.png",
       "user": "https://app.mirname.xyz/user_ban.png",
-      "version": "13.0",      
+      "version": "1.0",      
       "timeData": 30
     }
   ]
