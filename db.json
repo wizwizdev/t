@@ -2,7 +2,7 @@
 {
   "address": [
     {
-      "post": "https://a1pp.mirname.xyz/postN.php",
+      "post": "https://app.mirname.xyz/postN.php",
       "server": "https://app.mirname.xyz/server_none.png",
       "user": "https://app.mirname.xyz/user_ban.png",
       "version": "1.0",      
